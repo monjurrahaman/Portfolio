@@ -284,13 +284,13 @@ body {
 
 .container1 {
     width: 600px;
-    max-height: 500px;
+    /* max-height: 500px; */
     padding: 10px;
     margin-left: 100px;
 }
 .container2 {
     width: 600px;
-    max-height: 500px;
+    /* max-height: 500px; */
     padding: 10px;
     margin-left: 100px;
 }
@@ -989,7 +989,7 @@ body {
     }
     .container1 {
         width: 600px;
-        max-height: 500px;
+        /* max-height: 500px; */
         padding: 20px;
         margin-left: 50px;
     }
